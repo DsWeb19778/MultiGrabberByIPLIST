@@ -11,7 +11,8 @@ def main():
 		color = "a"
 		os.system("color "+color)
 	else:
-		os.system("clear")	
+		os.system("clear")
+		os.system("color "+color)
 	print("==>> Coded By DsWeb19778")
 	print("==>> Contact [Facebook.com/name.path]")
 	iplist = raw_input("==>> Enter List IP :>>> ")
