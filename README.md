@@ -3,7 +3,8 @@
 * LIBRARY U NEED : requests
 * USAGE : python grabber.py
 # IP FILE
-- IP in ip.txt file 
+- IP in ips.txt file 
+- u can always change the ips in the file 
 # Contact Me :
 - https://Facebook.com/name.path
 # Donate
